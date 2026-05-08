@@ -1,4 +1,4 @@
-# 💻 Java Programming Assignments (UCS Pathein)
+# 💻 Java Programming Exercise
 
 This repository serves as a personal archive for my Java programming journey. It contains various exercises, classworks, and practical laboratory tests developed during my studies.
 
@@ -18,4 +18,8 @@ This repository serves as a personal archive for my Java programming journey. It
 3. To run the projects locally, import the desired folder into Eclipse IDE.
 
 ---
-Developed with ❤️ by Myat Hmue Hay Thi | Computer Science Student at UCS (Pathein).
+Developed with ❤️ by Myat Hmue Hay Thi
+<img width="1120" height="431" alt="Screenshot 2026-05-08 191026" src="https://github.com/user-attachments/assets/06486aaf-0411-44f2-8e79-736268e4bf9d" />
+<img width="646" height="681" alt="Screenshot 2026-05-08 191158" src="https://github.com/user-attachments/assets/9b896fb4-7e3c-482e-b0be-3f0a7329ec55" />
+<img width="848" height="703" alt="Screenshot 2026-05-08 191426" src="https://github.com/user-attachments/assets/adfb267a-9275-4421-83fe-4127923229db" />
+
